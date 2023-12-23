@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">- 🔭 I'm trying to get a Front-End job<br>- 🌱 Nowadays, I'm learning JavaScript as I can 😹<br>- 💬 Ask me about what else I "work" for if you want... 😏<br>- 📫 Get me by my Gmail: overlutions@gmail.com<br>- ⚡ Fun Fact: I also do translations</p>
+<p align="left">- 🔭 I'm trying to get a Front-End job<br>- 🌱 Nowadays, I'm learning JavaScript as much as I can 😹<br>- 💬 Ask me about what else I "work" for if you want... 😏<br>- 📫 Get me by my Gmail: overlutions@gmail.com<br>- ⚡ Fun Fact: I also do translations</p>
 
 ###
 
